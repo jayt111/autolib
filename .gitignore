@@ -1,0 +1,24 @@
+# Build Directories
+build/
+cmake-build-*/
+out/
+Testing/
+
+.cache/
+compile_commands.json
+
+*.swp
+*~
+
+
+# Compiled Files
+*.o
+*.a
+*.so
+*.dylib
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
