@@ -30,7 +30,6 @@ This project uses CMake as its build system. It should work on any operating sys
 To build the library run the following in the top level directory:
 
 ```
-cd library/
 mkdir build
 cmake ..
 cmake --build .
